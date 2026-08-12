@@ -19,7 +19,7 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=renuka1163&show_icons=true)
+stats.vercel.app/api?username=vignitha-s&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vignitha-s&layout=compact)
 
 ## Connect with Me
