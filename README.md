@@ -14,7 +14,9 @@ badge&logo=spring-boot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-
 badge&logo=mongodb&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Git]\([https://img.shields.io/badge/Git-F05032?style=for-the-](https://img.shields.io/badge/Git-F05032?style=for-the-) badge&logo=git&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/first%20task?style=for-the-badge&logo=java&logoColor=purple&label=java&labelColor=black)
 
 ## GitHub Stats
 
