@@ -16,6 +16,8 @@ badge&logo=mongodb&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-
 badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 ## GitHub Stats
 
@@ -27,5 +29,7 @@ langs/?username=vignitha-s&layout=compact)
 
 ## Connect with Me- Email: nvignitha_cse2405h0@mgit.ac.in- LinkedIn: [vignitha
 Profile](https://linkedin.com/in/vignitha-example)
+
+
 
 
