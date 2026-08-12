@@ -19,11 +19,10 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=vignitha-s&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vignitha-s&layout=compact)
+stats.vercel.app/api?username=vignitha-s&show_icons=true&theme=radical)
 
-## Connect with Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-
+langs/?username=vignitha-s&layout=compact)
 
-📧 Email: nvignitha_cse2405h0@mgit.ac.in
-
-🔗 LinkedIn: [Vignitha Profile](https://linkedin.com/in/vignitha-example)
+## Connect with Me- Email: vignitha@gmail.com- LinkedIn: [vignitha
+Profile](https://linkedin.com/in/vignitha-example)
